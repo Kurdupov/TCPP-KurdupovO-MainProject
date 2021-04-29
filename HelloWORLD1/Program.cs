@@ -11,6 +11,7 @@ namespace HelloWORLD1
             Console.WriteLine("Привіт, Донну!");
             Console.WriteLine("Привіт, Донну та світ!");
             Console.WriteLine("Привіт, Донну!!!!");
+            Console.WriteLine();
         }
     }
 }
