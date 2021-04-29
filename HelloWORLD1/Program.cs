@@ -9,6 +9,7 @@ namespace HelloWORLD1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Привіт, Донну!");
+            Console.WriteLine("Привіт, Донну та світ!");
             Console.WriteLine("Привіт, Донну!!!!");
         }
     }
